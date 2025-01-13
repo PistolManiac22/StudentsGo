@@ -1,0 +1,18 @@
+Session Date,Origin,Destination,Price,Time,Mode,Total Cost,Total Time
+2024-12-10 10:02:44,Qizhang,Tamsui,$55,59,MRT,55.0,59 minutes
+2024-12-10 10:02:44,NTU Main Library,Taipei 101,$0,18,youbike,55.0,"1 hour, 17 minutes"
+2024-12-10 10:02:44,MRT Gongguan Station,Shilin Night Market,$30,48,bus,85.0,"2 hours, 5 minutes"
+2024-12-10 10:02:44,Gongguan,Tamsui,$45,51,MRT,130.0,"2 hours, 56 minutes"
+2024-12-10 15:55:17,Tamsui,Gongguan,$45,48,MRT,45.0,48 minutes
+2024-12-10 15:55:17,NTU Main Library,Shilin Night Market,$20,51,youbike,65.0,"1 hour, 39 minutes"
+2024-12-10 15:55:17,Guting,Taipei Nangang Exhibition Center,$30,32,MRT,95.0,"2 hours, 11 minutes"
+2024-12-10 16:05:09,Gongguan,Taipei Main Station,$20,18,MRT,20.0,18 minutes
+2024-12-10 16:05:09,Luzhou,Zhongshan,$25,43,MRT,25.0,43 minutes
+2024-12-10 18:32:21,MRT Gongguan Station,Ximending,$0,19,youbike,0.0,19 minutes
+2024-12-10 18:45:44,Taipei Zoo,Shipai,$40,39,MRT,40.0,39 minutes
+2024-12-10 18:49:04,Taipei Zoo,Beitou,$40,44,MRT,40.0,44 minutes
+2024-12-10 18:49:58,MRT Gongguan Station,Chiang Kai Shek Memorial Hall,$0,12,youbike,0.0,12 minutes
+2024-12-11 04:21:38,Taipei Zoo,Zhongyi,$45,47,MRT,45.0,47 minutes
+2024-12-11 04:25:14,Tamsui,Gongguan,$45,48,MRT,45.0,48 minutes
+2024-12-11 04:25:14,MRT Gongguan Station,Ximending,$15,35,bus,15.0,35 minutes
+2024-12-11 04:25:14,NTU Main Library,Shilin Night Market,$20,51,youbike,20.0,51 minutes

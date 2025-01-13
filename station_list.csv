@@ -1,0 +1,136 @@
+station_code,station,line_code,line_name,latitude,longitude
+BR01,Taipei Zoo,BR,Brown Line,24.998197,121.579338
+BR02,Muzha,BR,Brown Line,24.998241,121.573145
+BR03,Wanfang Community,BR,Brown Line,24.998585,121.568102
+BR04,Wanfang Hospital,BR,Brown Line,24.999386,121.558152
+BR05,Xinhai,BR,Brown Line,25.005475,121.557107
+BR06,Linguang,BR,Brown Line,25.018535,121.558791
+BR07,Liuzhangli,BR,Brown Line,25.023777,121.553115
+BR08,Technology Building,BR,Brown Line,25.026125,121.543437
+BR09,Daan,BR,Brown Line,25.032943,121.543551
+BR10,Zhongxiao Fuxing,BR,Brown Line,25.041629,121.543767
+BR11,Nanjing Fuxing,BR,Brown Line,25.052319,121.544011
+BR12,Zhongshan Junior High School,BR,Brown Line,25.060849,121.544227
+BR13,Songshan Airport,BR,Brown Line,25.063,121.551996
+BR14,Dazhi,BR,Brown Line,25.079477,121.546895
+BR15,Jiannan Rd.,BR,Brown Line,25.084853,121.555592
+BR16,Xihu,BR,Brown Line,25.082133,121.567213
+BR17,Gangqian,BR,Brown Line,25.080028,121.575081
+BR18,Wende,BR,Brown Line,25.078532,121.584761
+BR19,Neihu,BR,Brown Line,25.083661,121.594408
+BR20,Dahu Park,BR,Brown Line,25.083845,121.602141
+BR21,Huzhou,BR,Brown Line,25.072701,121.607158
+BR22,Donghu,BR,Brown Line,25.067147,121.611445
+BR23,Nangang Software Park,BR,Brown Line,25.059905,121.615953
+BR24,Taipei Nangang Exhibition Center,BR,Brown Line,25.055288,121.6175001
+R02,Xiangshan,R,Red Line,25.03283,121.569576
+R03,Taipei 101/World Trade Center,R,Red Line,25.033102,121.563292
+R04,Xinyi Anhe,R,Red Line,25.033326,121.553526
+R05,Daan,R,Red Line,25.032943,121.543551
+R06,Daan Park,R,Red Line,25.033396,121.534882
+R07,Dongmen,R,Red Line,25.033847,121.528739
+R08,Chiang Kai-Shek Memorial Hall,R,Red Line,25.032729,121.51827
+R09,NTU Hospital,R,Red Line,25.041256,121.51604
+R10,Taipei Main Station,R,Red Line,25.046255,121.517532
+R11,Zhongshan,R,Red Line,25.052685,121.520392
+R12,Shuanglian,R,Red Line,25.057805,121.520627
+R13,Minquan W. Rd.,R,Red Line,25.062905,121.51932
+R14,Yuanshan,R,Red Line,25.071353,121.520118
+R15,Jiantan,R,Red Line,25.084873,121.525078
+R16,Shilin,R,Red Line,25.093535,121.52623
+R17,Zhishan,R,Red Line,25.10306,121.522514
+R18,Mingde,R,Red Line,25.109721,121.518848
+R19,Shipai,R,Red Line,25.114523,121.515559
+R20,Qilian,R,Red Line,25.120872,121.506252
+R21,Qiyan,R,Red Line,25.125491,121.501132
+R22,Beitou,R,Red Line,25.131841,121.498633
+R22A,Xinbeitou,R,Red Line,25.136933,121.50253
+R23,Fuxinggang,R,Red Line,25.137474,121.485444
+R24,Zhongyi,R,Red Line,25.130969,121.47341
+R25,Guandu,R,Red Line,25.125633,121.467102
+R26,Zhuwei,R,Red Line,25.13694,121.459479
+R27,Hongshulin,R,Red Line,25.154042,121.458872
+R28,Tamsui,R,Red Line,25.167818,121.445561
+G01,Xindian,G,Green Line,24.957855,121.537584
+G02,Xindian District Office,G,Green Line,24.967393,121.54131
+G03,Qizhang,G,Green Line,24.975169,121.542942
+G03A,Xiaobitan,G,Green Line,24.971907,121.530339
+G04,Dapinglin,G,Green Line,24.982899,121.541352
+G05,Jingmei,G,Green Line,24.9921276,121.5406037
+G06,Wanlong,G,Green Line,25.001853,121.539051
+G07,Gongguan,G,Green Line,25.014908,121.534216
+G08,Taipower Building,G,Green Line,25.020725,121.528168
+G09,Guting,G,Green Line,25.026357,121.522873
+G10,Chiang Kai-Shek Memorial Hall,G,Green Line,25.032729,121.51827
+G11,Xiaonanmen,G,Green Line,25.035547,121.510857
+G12,Ximen,G,Green Line,25.04209,121.508303
+G13,Beimen,G,Green Line,25.049554,121.510184
+G14,Zhongshan,G,Green Line,25.052685,121.520392
+G15,Songjiang Nanjing,G,Green Line,25.052015,121.533075
+G16,Nanjing Fuxing,G,Green Line,25.052319,121.544011
+G17,Taipei Arena,G,Green Line,25.051836,121.55153
+G18,Nanjing Sanmin,G,Green Line,25.051652,121.564708
+G19,Songshan,G,Green Line,25.050118,121.577706
+O01,Nanshijiao,O,Orange Line,24.990045,121.509237
+O02,Jingan,O,Orange Line,24.993905,121.505113
+O03,Yongan Market,O,Orange Line,25.002876,121.511231
+O04,Dingxi,O,Orange Line,25.013821,121.515485
+O05,Guting,O,Orange Line,25.026357,121.522873
+O06,Dongmen,O,Orange Line,25.033847,121.528739
+O07,Zhongxiao Xinsheng,O,Orange Line,25.042356,121.532905
+O08,Songjiang Nanjing,O,Orange Line,25.052015,121.533075
+O09,Xingtian Temple,O,Orange Line,25.059718,121.533185
+O10,Zhongshan Elementary School,O,Orange Line,25.062694,121.526419
+O11,Minquan W. Rd.,O,Orange Line,25.062905,121.51932
+O12,Daqiaotou,O,Orange Line,25.063256,121.51272
+O13,Taipei Bridge,O,Orange Line,25.063274,121.500762
+O14,Cailiao,O,Orange Line,25.060274,121.492156
+O15,Sanchong,O,Orange Line,25.055791,121.484725
+O16,Xianse Temple,O,Orange Line,25.046493,121.471916
+O17,Touqianzhuang,O,Orange Line,25.039705,121.461746
+O18,Xinzhuang,O,Orange Line,25.036125,121.452468
+O19,Fu Jen University,O,Orange Line,25.032718,121.43547
+O20,Danfeng,O,Orange Line,25.0288671,121.4227079
+O21,Huilong,O,Orange Line,25.021862,121.41127
+O50,Sanchong Elementary School,O,Orange Line,25.070319,121.496904
+O51,Sanhe Junior High School,O,Orange Line,25.076859,121.486347
+O52,St. Ignatius High School,O,Orange Line,25.080728,121.479673
+O53,Sanmin Senior High School,O,Orange Line,25.085456,121.473389
+O54,Luzhou,O,Orange Line,25.091554,121.464471
+BL01,Dingpu,BL,Blue Line,24.96012,121.4205
+BL02,Yongning,BL,Blue Line,24.966726,121.436072
+BL03,Tucheng,BL,Blue Line,24.973094,121.444362
+BL04,Haishan,BL,Blue Line,24.985339,121.448786
+BL05,Far Eastern Hospital,BL,Blue Line,24.998037,121.452514
+BL06,Fuzhong,BL,Blue Line,25.008619,121.459409
+BL07,Banqiao,BL,Blue Line,25.013618,121.462302
+BL08,Xinpu,BL,Blue Line,25.023738,121.468361
+BL09,Jianzicui,BL,Blue Line,25.03001,121.47239
+BL10,Longshan Temple,BL,Blue Line,25.03528,121.499826
+BL11,Ximen,BL,Blue Line,25.04209,121.508303
+BL12,Taipei Main Station,BL,Blue Line,25.046255,121.517532
+BL13,Shandao Temple,BL,Blue Line,25.044823,121.523208
+BL14,Zhongxiao Xinsheng,BL,Blue Line,25.042356,121.532905
+BL15,Zhongxiao Fuxing,BL,Blue Line,25.041629,121.543767
+BL16,Zhongxiao Dunhua,BL,Blue Line,25.041478,121.551098
+BL17,Sun Yat-Sen Memorial Hall,BL,Blue Line,25.041349,121.557802
+BL18,Taipei City Hall,BL,Blue Line,25.041171,121.565228
+BL19,Yongchun,BL,Blue Line,25.040859,121.576293
+BL20,Houshanpi,BL,Blue Line,25.045055,121.582522
+BL21,Kunyang,BL,Blue Line,25.050461,121.593268
+BL22,Nangang,BL,Blue Line,25.052116,121.606686
+BL23,Taipei Nangang Exhibition Center,BL,Blue Line,25.055288,121.6175001
+Y07,Dapinglin,Y,Yellow Line,24.982899,121.541352
+Y08,Shisizhang,Y,Yellow Line,24.9829302,121.5340099
+Y09,Xiulang Bridge,Y,Yellow Line,24.9905493,121.5250505
+Y10,Jingping,Y,Yellow Line,24.9919681,121.5165532
+Y11,Jingan,Y,Yellow Line,24.993905,121.505113
+Y12,Zhonghe,Y,Yellow Line,25.0019806,121.4960519
+Y13,Qiaohe,Y,Yellow Line,25.0044131,121.4904608
+Y14,Zhongyuan,Y,Yellow Line,25.0084104,121.4841593
+Y15,Banxin,Y,Yellow Line,25.0144914,121.4722124
+Y16,Banqiao,Y,Yellow Line,25.015156,121.464825
+Y17,Xinpu Minsheng,Y,Yellow Line,25.026125,121.466839
+Y18,Touqianzhuang,Y,Yellow Line,25.039735,121.461655
+Y19,Xingfu,Y,Yellow Line,25.050282,121.460216
+Y20,New Taipei Industrial Park,Y,Yellow Line,25.0615483,121.4599257

@@ -1,0 +1,21 @@
+Origin,Destination,Mode,Price,Time_Needed
+MRT Gongguan Station,Chiang Kai Shek Memorial Hall,bus,$15,20
+MRT Gongguan Station,Chiang Kai Shek Memorial Hall,youbike,$0,12
+NTU Main Library,Chiang Kai Shek Memorial Hall,bus,$15,23
+NTU Main Library,Chiang Kai Shek Memorial Hall,youbike,$0,14
+MRT Gongguan Station,Taipei 101,bus,$15,24
+MRT Gongguan Station,Taipei 101,youbike,$0,16
+NTU Main Library,Taipei 101,bus,$15,25
+NTU Main Library,Taipei 101,youbike,$0,18
+MRT Gongguan Station,Ximending,bus,$15,35
+MRT Gongguan Station,Ximending,youbike,$0,19
+NTU Main Library,Ximending,bus,$15,42
+NTU Main Library,Ximending,youbike,$0,22
+MRT Gongguan Station,Shilin Night Market,bus,$30,48
+MRT Gongguan Station,Shilin Night Market,youbike,$20,50
+NTU Main Library,Shilin Night Market,bus,$30,49
+NTU Main Library,Shilin Night Market,youbike,$20,51
+MRT Gongguan Station,National Palace Museum,bus,$30,82
+MRT Gongguan Station,National Palace Museum,youbike,$20,49
+NTU Main Library,National Palace Museum,bus,$30,85
+NTU Main Library,National Palace Museum,youbike,$20,51
